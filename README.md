@@ -1,12 +1,12 @@
 # RFM-Analysis
 
-RFM (Recency, Frequency, Monetary) Analysis is a marketing technique used to determine quantitatively which customers are the best ones by examining how recently a customer has purchased (Recency), how often they purchase (Frequency), and how much the customer spends (Monetary).
-
-**Recency(R):** Customers who purchased more recently are more likely to purchase again than are customers who purchased further in the past.
-
-**Frequency(F):** Customers who have made more purchases in the past are more likely to respond than who have made fewer purchases.
-
-**Monetary:** Customers who have spent more (in total for all purchases) in the past are more likely to respond than those who have spent less.
+## Why RFM?
+RFM (Recency, Frequency, Monetary) analysis is a marketing model using customer segmentation based on their transaction history.
+This model could be very useful, especially for small and medium-sized enterprises (SMEs) with limited marketing resources, helping them focus on the potentially right customer segments to increase ROI, reduce churn, reduce cost, improve customer relationship, and a lot more.
+## How?
+In RFM analysis, customers are scored based on three factors (Recency - how recently, Frequency - how often, Monetary - how much), then labeled based on the combination of RFM scores.
+## Reference:
+https://www.putler.com/rfm-analysis
 
 # Business Problem
 **SuperStore Company** is a global retail company - Global. So the company has many customers.
